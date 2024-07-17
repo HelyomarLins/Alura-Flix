@@ -21,12 +21,8 @@ O AluraFlix é uma plataforma de hospedagem de filmes que permite aos usuários 
 
 ## Link do projeto Vercel
 
-[Pomodoro](https://alura-flix-six-pi.vercel.app/)
-
-## Link do projeto GitHubPages
-
-[Pomodoro](https://projeto-pomodoro-alura-oracle.vercel.app/)
+[AluraFlix](https://alura-flix-six-pi.vercel.app/)
 
 ## Link do portifólio GitHub
 
-[Pomodoro](https://github.com/HelyomarLins/Alura-Flix)
+[AliraFlix](https://github.com/HelyomarLins/Alura-Flix)
